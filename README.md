@@ -72,6 +72,20 @@ Engineering is not simply applied science. Petroski describes how engineering
 differs from science.
 
 
+## On the reading list
+
+I haven't read these books yet.
+
+### Engineering progress through trouble
+R.R. Whyte,
+Institution of Mechanical Engineers,
+1975
+
+### Unwritten laws of engineering
+W.J. King, James G. Skakoon
+American Society of Mechanical Engineers,
+2001
+
 
 
 [1]: https://github.com/lorin/systems-reading
